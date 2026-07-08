@@ -1,13 +1,4 @@
 {
   "videos": [
-    {
-      "id": 1,
-      "folder": "video_dd027661",
-      "title": "12",
-      "description": "12",
-      "icon": "https://raw.githubusercontent.com/art991122-stack/youtube-save/main/videos/video_dd027661/icon.png",
-      "chunks": 4,
-      "chunkPrefix": "https://raw.githubusercontent.com/art991122-stack/youtube-save/main/videos/video_dd027661/chunk_"
-    }
   ]
 }
