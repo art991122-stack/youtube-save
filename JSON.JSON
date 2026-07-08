@@ -1,13 +1,3 @@
 {
-  "videos": [
-    {
-      "id": 1,
-      "folder": "video_ef1f35ab",
-      "title": "SHORTS",
-      "description": "08.07.2026",
-      "icon": "https://raw.githubusercontent.com/art991122-stack/youtube-save/main/videos/video_ef1f35ab/icon.png",
-      "chunks": 1,
-      "chunkPrefix": "https://raw.githubusercontent.com/art991122-stack/youtube-save/main/videos/video_ef1f35ab/chunk_"
-    }
-  ]
+  "videos": []
 }
